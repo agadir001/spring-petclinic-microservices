@@ -1,4 +1,8 @@
 ---
+https://learn.microsoft.com/en-us/azure/spring-apps/quickstart-sample-app-introduction?tabs=basic-standard-tier&pivots=programming-language-java
+![image](https://user-images.githubusercontent.com/110976654/235137198-04c9e9e9-0035-4e26-a4f9-bce17aaa0400.png)
+
+---
 page_type: sample
 languages:
 - java
