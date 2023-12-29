@@ -4,8 +4,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/azure-samples/spring-petclinic-microservices-config
-          default-label: master
+          uri: https://github.com/agadir001/spring-petclinic-microservices-config
+          default-label: azure
+          username: agadir001
+          password: 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
         # Use the File System Backend to avoid git pulling. Enable "native" profile in the Config Server.
         native:
           searchLocations: file:///${GIT_REPO}
